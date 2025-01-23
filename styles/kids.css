@@ -60,7 +60,7 @@ a.ad{
 
 
 .logo,.h1{
-  font-size: 32px;
+  font-size: 56px;
   font-weight: bold;
 }
 .btn{
@@ -198,6 +198,10 @@ button ,.enroll-button {
   /* border: 1px solid #ccc; */
   /* border-radius: 8px; */
   text-align: center;
+  
+}
+.stories{
+  background-image: linear-gradient(#FFFFFF,#FEA301);
 }
 .story h2{
   text-align: center;
@@ -246,7 +250,7 @@ button ,.enroll-button {
   height: 38.35px;
   position: sticky;
   margin-top: -70px;
-  margin-left: 40px;
+  margin-left: 20px;
 }
 #btns1{
   background-color: #3CD8E8;
@@ -255,11 +259,11 @@ button ,.enroll-button {
   color: white;
   font-size: 15.34;
   border-radius: 47.93px;
-  width: 174.51px;
-  height: 38.35px;
+  width: 180.51px;
+  height: 60.35px;
   position: sticky;
-  margin-top: -10px;
-  margin-left: 0px;
+  margin-top: -30px;
+  margin-left: 10px;
   
 }
 #btns3{
@@ -295,7 +299,7 @@ button.view-all {
   color: white;
   padding: 20px 0;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   
   align-items: center;
   width: 1439px;
@@ -304,7 +308,7 @@ button.view-all {
 }
 .footer-logo p{
   /* text-overflow: clip; */
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
   
 }
 .footer-section {
@@ -312,7 +316,7 @@ button.view-all {
   justify-content: space-between;
   width: 1070.91px;
   height: 222px;
-  margin: 0 auto;
+  /* margin: 0 auto; */
 }
 .footer-logo{
   display: flex;
